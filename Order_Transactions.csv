@@ -1,0 +1,4 @@
+TxnID,Customer,Date,Amount
+1001,John,1/10/2023,200
+1002,John,1/12/2023,150
+1003,Alice,1/11/2023,300
